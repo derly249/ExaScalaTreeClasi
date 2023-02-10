@@ -2,7 +2,7 @@
 <h4 align="center">
 :construction: Proyecto en construcción :construction:
 </h4>
-# Identificador de especies de hojas uso de algoritmo decision tree classificafier
+## Identificador de especies de hojas uso de algoritmo decision tree classificafier
 
 _Acá va un párrafo que describa lo que es el proyecto_
 
