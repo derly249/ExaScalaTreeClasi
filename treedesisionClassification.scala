@@ -1,5 +1,7 @@
 import org.apache.spark.ml.classification.MultilayerPerceptronClassifier
 import org.apache.spark.ml.evaluation.MulticlassClassificationEvaluator
+import org.apache.spark.ml.classification.DecisionTreeClassificationModel
+import org.apache.spark.ml.classification.DecisionTreeClassifier
 import org.apache.spark.ml.feature.IndexToString
 import org.apache.spark.ml.feature.StringIndexer
 import org.apache.spark.ml.feature.VectorIndexer
